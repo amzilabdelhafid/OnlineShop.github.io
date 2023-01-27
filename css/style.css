@@ -1,0 +1,35 @@
+/*______ class ______________*/
+
+.pos_relative {
+  position: relative;
+}
+
+/* ________ style _____________ */
+
+#navBar {
+  width: 100%;
+}
+.nbr_elm {
+  position: absolute;
+  color: rgb(255, 255, 255);
+  right: -5px;
+  top: -5px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 18px;
+}
+
+.v10 {
+  min-height: 10vh;
+}
+
+.v70 {
+  min-height: 70vh;
+}
+
+.v20 {
+  min-height: 20vh;
+}
